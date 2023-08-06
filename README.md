@@ -31,7 +31,7 @@ cd Modify_Exif
 2. **Create Environment:**    (OPTIONAL)
 
 ```
-pyton -m venv venv
+python -m venv venv
 venv/scripts/activate      # for Linux
 venv\scripts\activate.bat  # for Windows
 ```
