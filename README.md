@@ -2,6 +2,13 @@
 
 A user-friendly Python tool designed to effortlessly extract, modify, and overwrite the 'UserComment' EXIF field in JPG files.
 
+## Why use this code?
+
+Stable Diffusion puts generation data of the generated image in the JPG or PNG generated file. 
+
+Sometimes you want to tweak on the EXIF data. (i.e. you just run an upscaler, and you want to preserve the original txt-to-image generation info)
+Then you can use this to put original (or any other) generation info in the JPG file.
+
 ## Features
 * **Automated Extraction**: Effortlessly extracts 'UserComment' EXIF data from JPG files.
 * **Interactive Editing**: Allows users to edit the EXIF data in a familiar environment - Notepad.
