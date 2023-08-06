@@ -5,7 +5,7 @@ A user-friendly Python tool designed to effortlessly extract, modify, and overwr
 ## Features
 * **Automated Extraction**: Effortlessly extracts 'UserComment' EXIF data from JPG files.
 * **Interactive Editing**: Allows users to edit the EXIF data in a familiar environment - Notepad.
-* **Preservation**: Saves the modified EXIF data back to the image, appending _EXIF for clarity.
+* **Preservation**: Saves the modified EXIF data back to the image, appending '**_EXIF**' for clarity.
 
 ## Requirements
 * Python 3.x
